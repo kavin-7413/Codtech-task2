@@ -1,3 +1,6 @@
+NAME :KAVIN VISHNU.S.J COMPANY :CODTECH IT SOLUTIONS ID :CT08FIU DOMAIN:C++ PROGRAMING DURATION :DECEMBER 20,2024 TO JANUARY,20,2025
+
+
 ### How it works:
 1. *User Input*: The program asks the user for a temperature and the scale of that temperature (Celsius, Fahrenheit, or Kelvin).
 2. *Conversion*: Based on the input scale, the program converts the temperature to the desired output scale. Conversion formulas are:
